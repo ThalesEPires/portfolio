@@ -1,0 +1,8 @@
+// isso é feito para automatizar o prettier, retirar as virgulas(conforme foi configurado)
+
+{
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
